@@ -1,0 +1,2 @@
+# Mart FMCG Supply Chain Dashboard
+ The Mart FMCG Supply Chain Dashboard is an interactive Power BI report designed to monitor and optimize the supply chain performance of an FMCG company. This dashboard provides insights into key performance metrics such as On-Time Delivery (OT%), In-Full Delivery (IF%), On-Time In-Full (OTIF%), and other crucial fulfillment KPIs. It also offers detailed analysis across customers, cities, product categories, and delivery delays to help stakeholders make data-driven decisions.
